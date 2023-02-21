@@ -1,8 +1,6 @@
 let num=25;
 
-if(num%2==0)
-{
-console.log("num is even")
-}
+(num %2==0) ? console.log("even") : console.log("odd");
+
 
 
